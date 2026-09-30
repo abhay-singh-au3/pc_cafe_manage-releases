@@ -1,21 +1,81 @@
-MIT License
+CAFE MANAGE SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2026 Abhay Singh
+Copyright (c) 2026 [LICENSOR NAME]. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This Agreement is between [LICENSOR NAME] ("Licensor") and the person or business
+installing or using the Software ("You"). By installing or using the Software You
+accept this Agreement. If You do not accept it, do not install or use the Software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. THE SOFTWARE
+"Software" means the Cafe Manage programs (cafe-server and cafe-client), their
+installers, updates and documentation, in binary form, as published by Licensor.
+No source code is provided or licensed.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. LICENSE GRANT
+Licensor grants You a non-exclusive, non-transferable, non-sublicensable, revocable
+licence to install and use the Software on computers You own or control, solely for
+the internal operation of Your own internet, gaming or computer café business.
+
+3. RESTRICTIONS
+You may not, and may not allow anyone else to:
+  a) sell, resell, rent, lease, lend, sublicense or otherwise commercially exploit
+     the Software or any copy of it;
+  b) copy or redistribute the Software or its installers to third parties, publish
+     it on any site or store, or offer it as a hosted or managed service to others;
+  c) reverse engineer, decompile, disassemble or attempt to derive the source code
+     of the Software, except to the extent applicable law permits despite this
+     restriction, and except for third-party components as described in section 6;
+  d) modify the Software or create derivative works, or use it to build a competing
+     product;
+  e) remove or alter any copyright, licence or attribution notice;
+  f) circumvent any technical limitation, licensing or update mechanism; or
+  g) use the Software unlawfully.
+
+4. OWNERSHIP
+The Software is licensed, not sold. Licensor keeps all right, title and interest in
+the Software, including all intellectual property rights. Rights not expressly
+granted in this Agreement are reserved.
+
+5. UPDATES
+Licensor may publish updates. Updates are part of the Software and are governed by
+this Agreement, or by a replacement agreement that comes with the update.
+
+6. THIRD-PARTY COMPONENTS
+The Software includes third-party components, including the Qt libraries (used under
+the GNU Lesser General Public License v3) and the Microsoft Visual C++ runtime. Those
+components remain under their own licences, which apply to them instead of this
+Agreement. Nothing in this Agreement limits Your rights under those licences,
+including the right to replace the Qt libraries with a compatible version and to
+reverse engineer them for debugging such modifications. Qt source code and licence
+texts are available from https://www.qt.io.
+
+7. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT
+THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED, OR THAT ITS TIME, BALANCE OR
+BILLING FIGURES WILL BE ERROR-FREE. YOU ARE RESPONSIBLE FOR VERIFYING ACCOUNTS AND
+KEEPING BACKUPS.
+
+8. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR IS NOT LIABLE FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR LOST PROFITS, REVENUE,
+DATA OR BUSINESS, ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE. LICENSOR'S
+TOTAL LIABILITY FOR ANY CLAIM IS LIMITED TO THE AMOUNT YOU PAID FOR THE SOFTWARE IN THE
+12 MONTHS BEFORE THE CLAIM, OR ZERO IF YOU PAID NOTHING.
+
+9. TERMINATION
+This Agreement lasts until terminated. It ends automatically, without notice, if You
+breach it. On termination You must stop using the Software and delete all copies.
+Sections 3, 4, 6, 7, 8 and 10 survive termination.
+
+10. GENERAL
+This Agreement is governed by the laws of [STATE / COUNTRY], and the courts of
+[CITY, STATE / COUNTRY] have exclusive jurisdiction. If any part of it is found
+unenforceable, the rest remains in effect. This is the entire agreement about the
+Software and replaces earlier licences for it, including any earlier open-source
+licence file. Copies of the Software You already received under an earlier licence
+stay governed by that licence for the version You received.
+
+11. CONTACT
+[LICENSOR NAME], [EMAIL ADDRESS]
